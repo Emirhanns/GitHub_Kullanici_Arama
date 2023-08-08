@@ -1,0 +1,71 @@
+#gitLogo{
+    width: 60px;
+}
+
+#header{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px;
+    border-radius: 10px;
+}
+
+#searchInput{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px;
+    border-radius: 10px;
+    padding: 15px;
+}
+#profileContent{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px;
+    border-radius: 10px;
+    padding: 15px;
+}
+#pp{
+    border-radius: 50%;
+    width: auto;
+    height: 180px;
+}
+#ppDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+}
+.info{
+    margin: 8px;
+}
+
+#reposDivTable{
+    background-color: whitesmoke;
+    border: 2px solid black;
+    margin-top: 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px;
+    padding: 40px;
+}
+.table{
+    border: 2px solid black;
+
+}
+#searchedUserid{
+    display: flex;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px;
+    border-radius: 10px;
+}
+#searchMain{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+#clearAll{
+margin-left: 20px; 
+margin-bottom: 2px;   
+}
+.list-group{
+    padding-bottom: 20px;
+}
